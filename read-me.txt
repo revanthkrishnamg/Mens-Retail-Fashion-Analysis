@@ -1,0 +1,22 @@
+Have done data analysis to a men's fasion retailer on these areas of focus - channel performance, demographic differences and customer behaviour.
+
+ADDTIONAL INFORMATION:
+Definitions	
+1st Order Profit	Total profit made on first order from a customer. This data excludes any promotions.
+Subsequent Order Profit	Total profit made on all subsequent orders from registration until June 30th 2013. This data excludes any promotions.
+Subsequent Orders	Total number of orders subsequent to the 1st order until June 30th 2013.
+Total value of all promotions	The total loss of the promotional discounts that the customer has redeemed from registration until June 30th 2013.
+	
+Source of Customer	
+Affiliates	Users who sign up to the site through other websites that are paid for links such as sales websites or discount websites
+Direct	Users who sign up to the website by typing the URL into their browsers
+Organic Search	Users who sign up to the website through unpaid google links
+Paid Search	Users who sign up to the website through paid google advertising
+Paid Social	Users who sign up to the website through paid social advertising on Facebook or Twitter
+
+Month	Paid Search	Affiliates
+Jan-13	€41,512.00	€16,421.00
+Feb-13	€61,243.00	€42,101.00
+Mar-13	€84,597.88	€141,321.00
+
+
